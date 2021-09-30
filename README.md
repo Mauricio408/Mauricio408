@@ -9,11 +9,12 @@ Hi, I'm [Mauricio Santana](https://instagram.com/_mauricio.santana), passionate 
 <div align="center">
   <a href="https://github.com/Mauricio408">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio408&show_icons=true&theme=dark&include_all_commits=true&count_private=true"width = 400/>
-  <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=Mauricio408&theme=dark&hide_border=true" width = 400>
+  <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=Mauricio408&theme=dark&hide_border=true" width = 500>
+  
+  
   </a>
-  ![Screenshot_20210807-135137_2](https://user-images.githubusercontent.com/80067538/135533284-6466bc89-896b-43c0-b9b8-6a5293a8517f.png)
-![Screenshot_20210807-135137_2](https://user-images.githubusercontent.com/80067538/135533316-8988700c-5e97-452a-98cd-c7e680ba5b3e.png)
-
+  <img align="right" alt="Rafa-pic" height="180em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80067538/135533284-6466bc89-896b-43c0-b9b8-6a5293a8517f.png" width = "140em">
+  
   ##
   </div>
   
