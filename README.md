@@ -9,7 +9,7 @@ Hi, I'm [Mauricio Santana](https://instagram.com/_mauricio.santana), passionate 
 <div align="center">
   <a href="https://github.com/Mauricio408">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio408&show_icons=true&theme=dark&include_all_commits=true&count_private=true"width = 400/>
-  <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=Mauricio408&theme=dark&hide_border=true" width = 500>
+  <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=Mauricio408&theme=dark&hide_border=true" width = 400>
   
   
   </a>
