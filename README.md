@@ -1,13 +1,9 @@
 ## Hi! Eu sou Maurício Santana
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/Mauricio408">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio408&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio408&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Mauricio408&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio408&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -26,7 +22,7 @@
 <div> 
    <a href="https://instagram.com/_mauricio.santana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciosantana408/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href=" https://wa.me/5511942321170" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511942321170" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:mauriciosantana408@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Mauricio408/Mauricio408/blob/output/github-contribution-grid-snake.svg)
